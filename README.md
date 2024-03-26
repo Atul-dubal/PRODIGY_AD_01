@@ -1,4 +1,4 @@
-### Calculator App
+### Calculator App Prodigy Intership task 1
 
 This repository contains a simple calculator app developed for Android devices. The app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
