@@ -1,30 +1,37 @@
-**Calculator Android App**
+### Calculator App
 
-This repository contains the source code for a simple calculator Android app developed using Java. The app provides basic arithmetic operations such as addition, subtraction, multiplication, and division. It also supports parentheses for grouping expressions.
+This repository contains a simple calculator app developed for Android devices. The app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-**Features:**
-- Arithmetic operations: addition, subtraction, multiplication, and division.
-- Parentheses support for grouping expressions.
-- Responsive UI layout for both light and dark themes.
-- Input field to display and edit calculations.
-- Error handling for division by zero and invalid expressions.
+### Features
 
-**How to Use:**
-1. Clone or download the repository.
-2. Open the project in Android Studio.
-3. Build and run the app on an Android device or emulator.
-4. Use the buttons to input mathematical expressions and see the result instantly.
+- Arithmetic Operations: Perform addition, subtraction, multiplication, and division.
+- Parentheses Support: Use parentheses to group expressions.
+- Decimal Support: Input decimal numbers for precise calculations.
+- Responsive Design: Optimized for both portrait and landscape orientations.
 
-**Technologies Used:**
-- Java
-- Android SDK
-- XML
+### Usage
 
-**Contributing:**
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to create a pull request or open an issue.
+The calculator app provides a user-friendly interface with buttons for digits, arithmetic operators, and special functions like clear (AC), remove (DEL), and equals (=). Users can input expressions directly or use the on-screen buttons to perform calculations.
 
-**License:**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Technologies Used
 
-**Author:**
-[Atul D. Dubal]
+- Java: The app is developed using Java programming language.
+- Android Studio: Development environment for building Android apps.
+- XML: Markup language for designing the app layout.
+- Stack Data Structure: Used for evaluating mathematical expressions.
+
+### Installation
+
+To run the app, you can clone this repository and open it in Android Studio. Then, build and run the app on an Android emulator or a physical device.
+
+```bash
+git clone https://github.com/yourusername/calculator-app.git
+```
+
+### Contributions
+
+Contributions to this project are welcome. Feel free to open issues for bug fixes, feature requests, or submit pull requests with enhancements.
+
+### License
+
+This project is licensed under the [MIT License](LICENSE).
